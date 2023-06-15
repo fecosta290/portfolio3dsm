@@ -62,9 +62,9 @@
 
 ## 2º Semestre - 2022.2
 
-<b>Link do repositório: </b><a href="https://github.com/MidNight-Tecnology/API-MidAll-2022.2">MidNight-Tecnology</a>
+<b>Link do repositório: </b><a href="https://github.com/whatscodeg3/API-2DSM-DailyBot">WhatsCode</a>
 <br><br>
-<img src="./docs/mid.jpg" width="150px" height="150px" align="center" alt="Logo do grupo MidNight" border-radius="50">
+<img src="./docs/logo-whatscode.svg" width="150px" height="150px" align="center" alt="Logo do grupo WhatsCode" border-radius="50">
 <br><br>
 <b>Cliente:</b>Empresa de desenvolvimento de software Midall
 <br>
