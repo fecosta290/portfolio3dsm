@@ -1,17 +1,17 @@
-# Portfólio - Ryan Alves de Quadros
+# Portfólio - Andre Felipe Costa
 
-<p align="justify">Portfólio sobre os projetos semestrais (APIs) desenvolvidos no curso de Desenvolvimento de Software Multiplataforma, apresentado na disciplina de Gestão Ágil de Projetos de Software</p>
+<p align="justify">Portfólio sobre os projetos semestrais (APIs) desenvolvidos no curso de Desenvolvimento de Software Multiplataforma</p>
 
 ## Sobre mim
 
-<p align="justify">Meu nome é Ryan Alves de Quadros, tenho 18 anos, técnico em desenvolvimento de sistemas pela ETEC Profª Ilza Nascimento Pintus, e atualmente cursando 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC Profº Jessen Vidal.</p>
-<p align="justify">Já participei de atividades extracurriculares como a Olimpíada Brasileira de Informática (OBI), tenho conhecimento em programação back-end e front-end em desenvolvimento web e banco de dados MySQL. Atualmente sou analista de operações na empresa que atua na consultoria de banco de dados <a href="https://www.hti.com.br/sobre-nos">HTI Tecnologia</a>.</p>
+<p align="justify">Meu nome é Andre Felipe Costa, tenho 19 anos e atualmente estou cursando 3º Semestre de Desenvolvimento de Software Multiplataforma na FATEC Profº Jessen Vidal.</p>
+<p align="justify">Tenho conhecimento em programação back-end em desenvolvimento web e banco de dados MySQL. Atualmente sou analista de operações na empresa que atua na consultoria de banco de dados <a href="https://www.hti.com.br/sobre-nos">HTI Tecnologia</a>.</p>
 
 ## Projetos
 
 ## 1º Semestre - 2022.1
 
-<b>Link do repositório:</b> <a href="https://github.com/JulioL2001/projeto-integrador-2022-1---FATEC-DSM">Impulse Team</a>
+<b>Link do repositório:</b> <a href="https://github.com/MidNight-Tecnology/projeto-integrador-2022-1---FATEC-DSM">Impulse Team</a>
 <br><br>
 <img src="./docs/Impulselogo.png" width="320px" height="130px" align="center" alt="Logo do grupo Impulse Team" border-radius="50">
 <br><br>
@@ -39,16 +39,15 @@
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Product Owner, sendo responsável por gerenciar o backlog do projeto e a das sprints, dividi as tasks entre os membros do grupo baseado na prioridade e na dificuldade de cada uma, executei tasks como criação do banco de dados e a conexão com o banco de dados. Realizei as documentações do projeto como o backlog e modelagem do banco de dados.</p>
+<p align="justify">Desempenhei o papel de desenvolvedor, sendo responsável por desenvolver o back-end e fazer a conexão com o front-end através do banco de dados.</p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Flask: </b>Aprendi a criar rotas, a renderizar templates</li>
+<li><b>Flask: </b>Aprendi a criar rotas, a renderizar templates e fazer a conexão com o banco de dados</li>
 <li><b>MySQL: </b>Aprendi a modelar o banco de dados e a manipular dados</li>
 <li><b>Trello: </b>Aprendi a gerenciar tarefas</li>
-<li><b>Git: </b>Aprendi a criar repositórios, clonar repositórios, criar branches, fazer commits e pushs e versionamento de codigo.</li>
-<li><b>Documentação: </b>Aprendi a criar documentação de projetos, modelagem do banco de dados e backlog</li>
+<li><b>Git: </b>Aprendi a criar repositórios, clonar repositórios, criar branches e fazer commits.</li>
 <li><b>Metodos ágeis: </b>Aprendi a trabalhar com metodologias ágeis (SCRUM)</li>
 </ul>
 
