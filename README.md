@@ -93,21 +93,21 @@
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável por desenvolver o bot que realiza o web scraping no Diário Oficial do Estado de São Paulo, baixando todas as páginas, transformando em pdf, juntando as páginas em cadernos. </p>
+<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável por desenvolver ............. </p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Python: </b>Aprendi a realizar web scraping, a manipular arquivos pdf, a manipular strings</li>
-<li><b>MySQL: </b>Aprendi a conectar o banco de dados com o backend, criar tabelas, inserir dados, manipular dados</li>
-<li><b>Node.js: </b>Aprendi a criar rotas, logar no sistema, renderizar templates</li>
-<li><b>Python: </b>Aprendi a realizar autoclicks e direcionar o navegador para uma página específica</li>
+<li><b>Python: </b>.......................</li>
+<li><b>MySQL: </b>.............</li>
+<li><b>Node.js: </b>.............</li>
+<li><b>Python: </b>.............</li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Resoluções de problemas: </b>Ao lidar com o web scraping, tive que resolver problemas como entrar na página desejada, pegar as informações e juntá-las em um arquivo .pdf por python, encontrando soluções para esses problemas</li>
+<li><b>Resoluções de problemas: </b>.............</li>
 <li><b>Adaptabilidade: </b>Tive que me adaptar a diferentes situações, como lidar com a mudança de requisitos do cliente</li>
 </ul>
 
@@ -145,18 +145,18 @@
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável pelo desenvolvimento do front-end do sistema utilizando a linguagem de programação TypeScript em conjunto com o framework web React. Implementei as telas da aplicação seguindo os conceitos de UI e UX para uma melhor experiência ao navegar pelas interfaces.</p>
+<p align="justify">Desempenhei o papel de Scrum Master, ajudando o grupo em tasks e gerenciando a documentação como o burndown (horas trabalhadas do grupo), além de atuar no back-end da aplicação fazendo........ </p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>TypeScript: </b>Aprendi a criar rotas, telas e a manipular dados</li>
-<li><b>React: </b>Aprendi a buscar dados do banco e mostrá-los na interface, além de seguir as necessidades/requisitos impostos pelo cliente na parte da interface </li>
+<li><b>Java: </b>Aprendi a ..........</li>
+<li><b>: </b> </li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Gestão de tempo: </b>Tive que gerenciar meu tempo para conseguir realizar as tarefas do frontend</li>
+<li><b>Gestão de tempo: </b>Tive que gerenciar meu tempo para conseguir realizar o gerenciamento e funções de Scrum Master além das tarefas do backend</li>
 <li><b>Resiliência: </b>Tive que lidar com a pressão de entregar as tarefas no prazo e superar as dificuldades que surgiram durante as entregas das sprints</li>
 <ul>
