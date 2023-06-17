@@ -55,7 +55,7 @@
 
 <ul>
 <li><b>Trabalho em equipe: </b>Aprendi a trabalhar em equipe, a ouvir as ideias dos outros e a respeitar as opiniões dos outros</li>
-<li><b>Comunicação: </b>Aprendi a me comunicar melhor com os outros e ao cliente por conta das reuniões pela função de Product Owner</li>
+<li><b>Comunicação: </b>Aprendi a me comunicar melhor com os outros membros da equipe</li>
 <li><b>Proatividade: </b>Aprendi a ser mais proativo e a buscar soluções para os problemas</li>
 <li><b>Organização: </b>Aprendi a me organizar melhor e a organizar as tarefas do grupo</li>
 </ul>
@@ -83,7 +83,6 @@
 <ul>
 <li><b>Figma: </b>Ferramenta de prototipação das telas</li>
 <li><b>Javascript: </b>Linguagem de programação</li>
-<li><b>Java: </b>Linguagem de programação</li>
 <li><b>React: </b>Framework web</li>
 <li><b>Node.js: </b>Framework web</li>
 <li><b>Python: </b>Linguagem de programação para a realização do web scraping</li>
@@ -93,15 +92,13 @@
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável por desenvolver ............. </p>
+<p align="justify">Desempenhei o papel de Desenvolvedor, sendo responsável por desenvolver partes do front-end e também atuei no back-end trabalhando com a tecnologia sequelize para fazer consultas no banco</p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Python: </b>.......................</li>
-<li><b>MySQL: </b>.............</li>
-<li><b>Node.js: </b>.............</li>
-<li><b>Python: </b>.............</li>
+<li><b>Node.js: </b>Grande parte do nosso back-end foi desenvolvido ultilizando node.js. Ultilozando bibliotecas como express.js para fazer conexão com o banco e o CRUD, tambem usamos a biblioteca sequelize para fazer consultas no banco</li>
+<li><b>Python: </b>Foi ultilozado o python para fazer as buscas no site do diario oficial de SãoPaulo</li>
 </ul>
 
 ### <b> Soft Skills </b>
@@ -145,13 +142,12 @@
 
 ### <b>Contribuições pessoais</b>
 
-<p align="justify">Desempenhei o papel de Scrum Master, ajudando o grupo em tasks e gerenciando a documentação como o burndown (horas trabalhadas do grupo), além de atuar no back-end da aplicação fazendo........ </p>
+<p align="justify">Desempenhei o papel de Scrum Master, ajudando o grupo em tasks e gerenciando a documentação como o burndown (horas trabalhadas do grupo), além de atuar no back-end da aplicação fazendo toda a base do projeto como o CRUD e a utilização dos metodos http </p>
 
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Java: </b>Aprendi a ..........</li>
-<li><b>: </b> </li>
+<li><b>Java: </b>Aprendi a desenvolver API'S com Spring</li>
 </ul>
 
 ### <b> Soft Skills </b>
