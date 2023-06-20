@@ -97,14 +97,13 @@
 ### <b> Hard Skills </b>
 
 <ul>
-<li><b>Node.js: </b>Grande parte do nosso back-end foi desenvolvido ultilizando node.js. Ultilozando bibliotecas como express.js para fazer conexão com o banco e o CRUD, tambem usamos a biblioteca sequelize para fazer consultas no banco</li>
-<li><b>Python: </b>Foi ultilozado o python para fazer as buscas no site do diario oficial de SãoPaulo</li>
+<li><b>Node.js: </b>Grande parte do nosso back-end foi desenvolvido ultilizando node.js. Ultilizando bibliotecas como express.js para fazer conexão com o banco e o CRUD, tambem usamos a biblioteca sequelize para fazer consultas no banco</li>
+<li><b>Python: </b>Foi ultilizado o python para fazer as buscas no site do diario oficial de SãoPaulo</li>
 </ul>
 
 ### <b> Soft Skills </b>
 
 <ul>
-<li><b>Resoluções de problemas: </b>.............</li>
 <li><b>Adaptabilidade: </b>Tive que me adaptar a diferentes situações, como lidar com a mudança de requisitos do cliente</li>
 </ul>
 
